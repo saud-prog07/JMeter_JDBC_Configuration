@@ -1,1 +1,0 @@
-# JMeter_JDBC_Configuration
